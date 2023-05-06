@@ -2,7 +2,7 @@
 
 import subprocess
 
-print("Welcoe to Mac changer")
+print("Welcome to Mac changer")
 print(".....................\n")
 
 interface = input("Your interface: ")
