@@ -11,7 +11,9 @@ Usage1:[machanger.py]
    WELCOME TO MAC CHANGER:
    
    Your interface: eth0
+   
    Enter New Mac address: 00:22:33:44:55:xx
+   
    [+] Changing Mac address for eth0 to 00:22:33:44:55:xx
  
  
@@ -19,6 +21,7 @@ Usage2:
 =============
 
 (root㉿kali)-[~] python3 Machanger.py --interface eth0 --mac 00:11:22:33:44:66
+
 [+] Changing Mac address for eth0 to 00:11:22:33:44:66
 
 
