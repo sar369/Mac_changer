@@ -2,7 +2,7 @@
 
 Its a simple mac changer tool.Use python3 and update your python.
 
-There are two ways to get this tool.As yoy see the code was a bit change.
+There are two ways to get this tool.As if you can see the files.
 
 Usage1:[machanger.py]
 =====================
