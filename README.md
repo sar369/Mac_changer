@@ -4,7 +4,7 @@ Its a simple mac changer tool.Use python3 and update your python.
 
 There are two ways to get this tool.As yoy see the code was a bit change.
 
-Usage:[machanger.py]
+Usage1:[machanger.py]
 =====================
 
 (root㉿kali)-[~] python3 machanger.py
