@@ -17,7 +17,7 @@ Usage1:[machanger.py]
    [+] Changing Mac address for eth0 to 00:22:33:44:55:xx
  
  
-Usage2:
+Usage2:[Machanger.py]
 =============
 
 (root㉿kali)-[~] python3 Machanger.py --interface eth0 --mac 00:11:22:33:44:66
