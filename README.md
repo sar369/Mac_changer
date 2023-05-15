@@ -7,6 +7,19 @@ There are two ways to get this tool.As if you can see the files.
 Usage1:[machanger.py]
 =====================
 
+
+
+(root㉿kali)-[~] python3 Machanger.py --interface eth0 --mac 00:32:xx:xx:xx:xx
+
+[+] Changing Mac address for eth0 to 00:32:xx:xx:xx:xx
+
+
+Simple and lazy tool for ppl like me....
+
+
+Usage2:[Machanger.py]
+=============
+
 (root㉿kali)-[~] python3 machanger.py
 
    
@@ -19,12 +32,3 @@ Usage1:[machanger.py]
    [+] Changing Mac address for eth0 to 00:12:xx:xx:xx:xx
  
  
-Usage2:[Machanger.py]
-=============
-
-(root㉿kali)-[~] python3 Machanger.py --interface eth0 --mac 00:32:xx:xx:xx:xx
-
-[+] Changing Mac address for eth0 to 00:32:xx:xx:xx:xx
-
-
-Simple and lazy tool for ppl like me....
