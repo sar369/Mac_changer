@@ -22,3 +22,8 @@ def change_mac(interface, mac):
 
 opt = get_arg()
 change_mac(opt.interface, opt.mac)
+
+print("...................................................................\n")
+iface_result = subprocess.call(["ifconfig", opt.interface])
+
+
